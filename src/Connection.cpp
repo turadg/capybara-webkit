@@ -13,6 +13,8 @@
 #include "Header.h"
 #include "Render.h"
 #include "Body.h"
+#include "Headers.h"
+#include "Status.h"
 
 #include <QTcpSocket>
 #include <iostream>
